@@ -2,11 +2,11 @@
 - 👀 I’m interested in ...
      Professionally, becoming a data engineer. (Non-professionally, I'm big into tabletop games.) 
        
-     For me, problem solving, espeically from a design perspective, sparks a specific kind of joy I increasingly can't get enough of, 
-     and learning the list of skills involved with becoming a data engineer feeds into that perfectly. The job prospects of the field 
-     keep me doubly motivated. I'm also encouraged by knowing it's a field where you have to keep learning new things, so things won't
-     likely get stale. I find constantly learning is the best defense against the elements such as tedium and repetition that work to 
-     crush one's soul. So far the journey has been a blast!
+     Problem solving, espeically from a design perspective, sparks a specific kind of joy I increasingly can't get enough of, 
+     and learning the list of skills involved with becoming a data engineer feeds into that perfectly. The job prospects keep me 
+     doubly motivated. I'm also encouraged by knowing it's a field where you have to keep learning new things, so it won't
+     likely get stale. I find that constantly learning is the best defense against elements that work to crush one's soul. such as 
+     tedium and repetition. So far the journey has been a blast!
        
 - 🌱 I’m currently learning ...
        
@@ -15,13 +15,13 @@
      what a CPU was. Now I'm juggling Linux distros and listening to programming podcasts while I run and do dishes. 
      I find I learn much faster and am much more motivated to stick to a curriculum which I reasearched and put together for myself 
      instead of learning in a structured environment where others tell me what to do. I know many people are the exact opposite, but for 
-     me I thrive off that self determination. Having said that, however, I am certainly coachable and would love to have a mentor to bounce 
+     me I thrive off self determination. Having said that, however, I am certainly coachable and would love to have a mentor to bounce 
      ideas off of and go to when I really get stuck in a problem. It would also be nice to have someone to check in with to confirm I'm 
      going in the right direction with my learning--it's tough sometimes to not stray from the path and be lured in by all the shiny areas 
      of tech that are not so immedaitely relevant to DE. So yes, I look forward to breaking into the field and checking out meetups soon 
-     to get the perspecive of experienced people. Very few people in my life even knew what I data engineer was before I told them about 
-     it, so I often feel I'm off on my own planet a lot of the time... I see I've digessed a somewhat, so here is a list of what I've got 
-     going on broken down by areas of signficance ot DE...  
+     to get the perspecive of experienced people. Very few people in my life even knew what a data engineer was before I told them about 
+     it, so I feel I'm off on my own planet a lot of the time... I see I've digessed a somewhat, so here is a list of what I've got 
+     going right now, broken down by areas of signficance ot DE...  
 
 ---Programming--Python---       
        
