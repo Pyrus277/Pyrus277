@@ -20,8 +20,7 @@
        to get the perspecive of experienced people. Very few people in my life even knew what I data engineer was before I told them about 
        it, so I often feel I'm off on my own planet a lot of the time... I see I've digessed a somewhat, so here is a list of what I've got 
        going on broken down by areas of signficance ot DE...  
-       
-       Programming--Python
+-Programming--Python
        I've got the Coursera course Python of Everybody under my belt, and am on the home strech of the UMich Python 3 Specialization.
        Dr. Chuck of the former course actually turned me on to data engineering by virtue of the course being so data centric. 
        I'm also working though a book of programming problem, the code of and details of which has a repsoitory on this very platform.
