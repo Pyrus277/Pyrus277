@@ -23,7 +23,9 @@
        
        
     Programming-- 
+       
        Python
+          
           -I've got the Coursera course Python of Everybody under my belt, and am on the home strech of the UMich Python 3 Specialization.
            Dr. Chuck of the former course actually turned me on to data engineering by virtue of the course being so data centric. 
           -I'm also working though a book of programming problem, the code of and details of which has a repsoitory on this very platform.
@@ -38,9 +40,9 @@
         
     Logging, Monitoring, & Testing--
         
-    Workflow--
+    Workflow
         
-        --Big Data, Cloud, NoSQL
+    Big Data, Cloud, NoSQL
         
         
         
