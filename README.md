@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Pyrus277
 - 👀 I’m interested in ...
+       
        Professionally, becoming a data engineer. (Non-professionally, I'm big into tabletop games.) 
        For me, problem solving, espeically from a design perspective, sparks a specific kind of joy I increasingly can't get enough of, 
        and learning the list of skills involved with becoming a data engineer feeds into that perfectly. The job prospects of the field 
@@ -8,6 +9,7 @@
        crush one's soul. So far the journey has been a blast!
        
 - 🌱 I’m currently learning ...
+       
        Lots of stuff. Too much? I'm self taught with everything here. For the better part of the past decade I've been a bartender, 
        which I loved, and still love, but feel like it's time to move on to something completely different. A year ago I barely even knew 
        what a CPU was. Now I'm juggling Linux distros and listening to programming podcasts while I run and do dishes. 
