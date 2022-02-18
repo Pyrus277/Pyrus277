@@ -8,6 +8,7 @@
        crush one's soul. So far the journey has been a blast!
        
 - 🌱 I’m currently learning ...
+       .
        Lots of stuff. Too much? I'm self taught with everything here. For the better part of the past decade I've been a bartender, 
        which I loved, and still love, but feel like it's time to move on to something completely different. A year ago I barely even knew 
        what a CPU was. Now I'm juggling Linux distros and listening to programming podcasts while I run and do dishes. 
@@ -20,23 +21,29 @@
        to get the perspecive of experienced people. Very few people in my life even knew what I data engineer was before I told them about 
        it, so I often feel I'm off on my own planet a lot of the time... I see I've digessed a somewhat, so here is a list of what I've got 
        going on broken down by areas of signficance ot DE...  
--Programming--Python
-       I've got the Coursera course Python of Everybody under my belt, and am on the home strech of the UMich Python 3 Specialization.
-       Dr. Chuck of the former course actually turned me on to data engineering by virtue of the course being so data centric. 
-       I'm also working though a book of programming problem, the code of and details of which has a repsoitory on this very platform.
-       Looking forward, once I'm done with the coursework of the specialization, I'm going to take a more project-oriented approach to 
-       learning programming and working through that book is kind of a transition to that phase.
-       I also have it in mind to start learning a lower level programming language and have my sights set on Rust. 
-       SQL, Databases, and Data Warehouses
-       
-       
-       Linux, Servers, and Shell Scripting
-       
-       Logging, Monitoring, & Testing
-       
-       Workflow
-       
-       Big Data, Cloud, NoSQL
+       .
+       .
+       ---Programming--Python---
+       .
+             -I've got the Coursera course Python of Everybody under my belt, and am on the home strech of the UMich Python 3 Specialization.
+              Dr. Chuck of the former course actually turned me on to data engineering by virtue of the course being so data centric. 
+              .
+             -I'm also working though a book of programming problem, the code of and details of which has a repsoitory on this very platform.
+              Looking forward, once I'm done with the coursework of the specialization, I'm going to take a more project-oriented approach to 
+              learning programming and working through that book is kind of a transition to that phase.
+              .
+              I also have it in mind to start learning a lower level programming language and have my sights set on Rust. 
+       .     
+       ---SQL, Databases, and Data Warehouses--
+       .
+       .
+       ---Linux, Servers, and Shell Scripting---
+       .
+       ---Logging, Monitoring, & Testing---
+       .
+       ---Workflow---
+       .
+       ---Big Data, Cloud, NoSQL---
         
        
 
