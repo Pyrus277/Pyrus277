@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pyrus277
 - 👀 I’m interested in ...
-       Becoming a data engineer. 
+       Professionally, becoming a data engineer. (Non-professionally, I'm big into tabletop games.) 
        For me, problem solving, espeically from a design perspective, sparks a specific kind of joy I increasingly can't get enough of, 
        and learning the list of skills involved with becoming a data engineer feeds into that perfectly. The job prospects of the field 
        keep me doubly motivated. I'm also encouraged by knowing it's a field where you have to keep learning new things, so things won't
@@ -22,29 +22,28 @@
        going on broken down by areas of signficance ot DE:  
        
        
-    Programming-- 
-       
-       Python
+Programming 
+  Python
           
-          I've got the Coursera course Python of Everybody under my belt, and am on the home strech of the UMich Python 3 Specialization.
-          Dr. Chuck of the former course actually turned me on to data engineering by virtue of the course being so data centric. 
+       I've got the Coursera course Python of Everybody under my belt, and am on the home strech of the UMich Python 3 Specialization.
+       Dr. Chuck of the former course actually turned me on to data engineering by virtue of the course being so data centric. 
           
-          I'm also working though a book of programming problem, the code of and details of which has a repsoitory on this very platform.
-          Looking forward, once I'm done with the coursework of the specialization, I'm going to take a more project-oriented approach to 
+       I'm also working though a book of programming problem, the code of and details of which has a repsoitory on this very platform.
+       Looking forward, once I'm done with the coursework of the specialization, I'm going to take a more project-oriented approach to 
           
-          learning programming and working through that book is kind of a transition to that phase.
-          I also have it in mind to start learning a lower level programming language and have my sights set on Rust. 
-          
-    SQL, Databases, and Data Warehouses--
-           -
+       learning programming and working through that book is kind of a transition to that phase.
+       I also have it in mind to start learning a lower level programming language and have my sights set on Rust. 
+         
+ SQL, Databases, and Data Warehouses
+           
         
-    Linux, Servers, and Shell Scripting--
+ Linux, Servers, and Shell Scripting
         
-    Logging, Monitoring, & Testing--
+ Logging, Monitoring, & Testing
         
-    Workflow
+ Workflow
         
-    Big Data, Cloud, NoSQL
+ Big Data, Cloud, NoSQL
         
         
         
