@@ -22,16 +22,16 @@
        going on broken down by areas of signficance ot DE:  
        
        
-Programming 
+Programming-- 
   Python
-       I've got the Coursera course Python of Everybody under my belt, and am on the home strech of the UMich Python 3 Specialization.
-       Dr. Chuck of the former course actually turned me on to data engineering by virtue of the course being so data centric. 
+  I've got the Coursera course Python of Everybody under my belt, and am on the home strech of the UMich Python 3 Specialization.
+  Dr. Chuck of the former course actually turned me on to data engineering by virtue of the course being so data centric. 
           
-       I'm also working though a book of programming problem, the code of and details of which has a repsoitory on this very platform.
-       Looking forward, once I'm done with the coursework of the specialization, I'm going to take a more project-oriented approach to 
+  I'm also working though a book of programming problem, the code of and details of which has a repsoitory on this very platform.
+  Looking forward, once I'm done with the coursework of the specialization, I'm going to take a more project-oriented approach to 
           
-       learning programming and working through that book is kind of a transition to that phase.
-       I also have it in mind to start learning a lower level programming language and have my sights set on Rust. 
+  learning programming and working through that book is kind of a transition to that phase.
+  I also have it in mind to start learning a lower level programming language and have my sights set on Rust. 
          
  SQL, Databases, and Data Warehouses
            
