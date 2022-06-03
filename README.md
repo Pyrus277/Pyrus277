@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Pyrus277
+👋 Hi, I’m @Pyrus277  
+  
 - 👀 I’m interested in ...
      Professionally, becoming a data engineer. (Non-professionally, I'm big into tabletop games.) 
        
@@ -23,7 +24,7 @@
      it, so I feel I'm off on my own planet a lot of the time... I see I've digessed a somewhat, so here is a list of what I've got 
      going right now, broken down by areas of signficance ot DE...  
 
----Programming--Python---       
+### Programming: Python       
        
    -I've got the Coursera course Python of Everybody under my belt, and am on the home strech of the UMich Python 3 Specialization.
     Dr. Chuck of the former course actually turned me on to data engineering by virtue of the course being so data centric. 
@@ -34,16 +35,16 @@
               
    -I also have it in mind to start learning a lower level programming language and have my sights set on Rust. 
             
----SQL, Databases, and Data Warehouses--
+### SQL, Databases, and Data Warehouses
        
        
----Linux, Servers, and Shell Scripting---
+### Linux, Servers, and Shell Scripting
        
----Logging, Monitoring, & Testing---
+### Logging, Monitoring, & Testing
        
----Workflow---
+### Workflow
        
----Big Data, Cloud, NoSQL---
+### Big Data, Cloud, NoSQL
         
        
 
