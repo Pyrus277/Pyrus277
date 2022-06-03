@@ -1,4 +1,4 @@
-👋 Hi, I’m @Pyrus277  
+## Hi, I’m @Pyrus277  
   
 - 👀 I’m interested in ...
      Professionally, becoming a data engineer. (Non-professionally, I'm big into tabletop games.) 
