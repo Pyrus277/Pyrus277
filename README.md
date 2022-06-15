@@ -11,8 +11,8 @@
        
      Lots of stuff. For a detailed breakdown, check out my website! http://pfoxtechcv.com  
        
-     So far I'm self taught with everything listed there. For the better part of the past decade I've been a bartender, 
-     which I loved, but feel like it's time to move on to something completely different. 
+     So far I'm self taught with everything listed there, but I'm coachable and eager for a mentor.   
+     For the better part of the past decade I've been a bartender, which I loved, but feel like it's time to move on to something completely different. 
 
 
 <!---
