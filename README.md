@@ -1,10 +1,10 @@
 ## Hi, I’m @Pyrus277  
   
 - 👀 I’m interested in ...
-     Professionally, getting a junior level data engineering position where I can advance my skills as part of a team.   
+     Professionally, getting a junior level data analysis or engineering position where I can advance my skills as part of a team.   
      (Non-professionally, I'm big into tabletop games.) 
        
-     Problem solving, espeically from a design perspective, sparks a specific kind of joy I increasingly can't get enough of, 
+     Problem solving, especially from a design perspective, sparks a specific kind of joy I increasingly can't get enough of, 
      and learning the list of skills involved with becoming a data engineer feeds into that perfectly.
        
 - 🌱 I’m currently learning ...
