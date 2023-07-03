@@ -9,7 +9,7 @@
        
 - 🌱 I’m currently learning ...
        
-     Lots of stuff. For a detailed breakdown, check out my website--http://pfoxtechcv.com  
+     Always trying to sharpen my SQL and Python. Right now doing a deep dive on Machine Learning, with the aim of participating in Kaggle competitions. 
        
      I recently graduated from the BrainStation data science bootcamp. It was an absolute blast, and went a long way in increasing the depth and breadth of my skills.   
      For the better part of the past decade I've been a bartender, which I loved, but feel like it's time to move on to something completely different. 
